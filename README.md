@@ -19,4 +19,4 @@ Selain Dark Speed V7.4 Di Ubah Orang Menjadi Lain? Itu Hanya Recode
 </ul>
 <br />
 <br />
-<img src="https://github.com/dizart-y/Stabil/blob/master/Screenshot_20190904-012002.png" />
+<img src="https://github.com/dizart-y/Stabil/blob/master/Screenshot_20190904-012851.png" />
