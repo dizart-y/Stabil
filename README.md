@@ -10,7 +10,8 @@ Dark Speed V7.4 Keluaran Terbaru
 Selain Dark Speed V7.4 Di Ubah Orang Menjadi Lain? Itu Hanya Recode
 
 <ul>
-<li><code>apt update apt upgrade</code></li>
+<li><code>apt update</code></li>
+<li>apt upgrade</code></li>
 <li><code>pkg install python3 -y2 </code></li>
 <li><code>git clone https://github.com/dizart-y/Stabil</code></li>
 <li><code>cd SpeedStabi</code></li>
